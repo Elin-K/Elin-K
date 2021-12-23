@@ -15,6 +15,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ein214)](https://github.com/anuraghazra/github-readme-stats)
+
