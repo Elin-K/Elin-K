@@ -11,7 +11,7 @@
 <img src='https://img.shields.io/badge/PHPSTORM-%23000000?style=for-the-badge&logo=PhpStorm&logoColor=white' > <img src='https://img.shields.io/badge/GitLab-%23FCA121?style=for-the-badge&logo=GitLab&logoColor=white' > <img src='https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white'>
 
 - 🔭 I’m currently working on Uniwill 
-- 🌱 I’m currently learning Vue or React or Python 
+- 🌱 I’m currently learning Vue or React or Python.
 
 
 
