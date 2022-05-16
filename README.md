@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EINEE&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Elin&fontSize=90&animation=twinkling)
 
 #### Hi there 👋, I'm <b>Web developer</b> using PHP. ####
 
